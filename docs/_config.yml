@@ -2,7 +2,7 @@
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
 url: "https://IAM-NEYE.github.io"
-baseurl: "/moonrise"
+baseurl: "/nightcraft"
 siteIcon: /media/android-chrome-192x192.png
 siteYear: 2023
 siteFooterlink: /about
@@ -11,14 +11,14 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
+serverName: NightCraft Skyblock
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
-useBedrockForOnlineStatus: false
+serverIP: play.nightcraft.uk.to:19132
+useBedrockForOnlineStatus: true
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
+discordInvite: https://discord.com/invite/7pPyRf2NwC
 discordServerID: 299881420891881473
 discordChannelID: 450428756855750666
 
