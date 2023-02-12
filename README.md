@@ -1,6 +1,6 @@
 ![Moonrise logo](docs/media/favicon.ico) 
 
-# Moonrise
+# Nightcraft
 
 A simple, lightweight, responsive landing page template for a Minecraft server. Integrates with Discord, Minecraft server status, and GitHub Pages to host a free website.
 
