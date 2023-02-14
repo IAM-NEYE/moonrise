@@ -1,2 +1,2 @@
 # nightcraft
-Nightcraft Minecraft server website template
+Nightcraft is a Minecraft skyblock Bedrock server.
