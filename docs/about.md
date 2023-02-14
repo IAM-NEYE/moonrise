@@ -2,12 +2,12 @@
 layout: page
 navname: About
 ---
----
-ABOUT US
+
+# ABOUT US
 
 NightCraft is a Private Minecraft Network that will Come up with Verity of Minigames Games soon. Currently, we have started with the Skyblock that is inspired by the Hypixel Skyblock.
 
-Privacy Policy
+# Privacy Policy
 
 We are NightCraft. We will not use or share your information with anyone except as described in this Privacy Policy.
 
