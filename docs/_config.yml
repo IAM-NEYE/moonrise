@@ -28,14 +28,14 @@ discordChannelID: 1056472669018669076
 # #   url - The link it should go to (for example, if you have "maps.md" file, put "maps")
 # #   newtab - Whether link should open in new tab
 # 
- siteNav:
+# siteNav:
 #  - name: Server Map1
 #    url: map
  #   newtab: true
-   - name: Screenshots
-     url: screenshots
-   - name: About
-     url: about
+#   - name: Screenshots
+ #    url: screenshots
+#   - name: About
+ #    url: about
 
 
 # Don't change anything below here, these are defaults set by GitHub Pages:
