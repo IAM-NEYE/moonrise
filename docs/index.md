@@ -13,4 +13,8 @@ cellLinks:
   - cname: Store
     curl: store
     cimage: media/demo04.jpg
+
+  - cname: Donate
+    curl: donate
+    cimage: media/donate.png
 ---
